@@ -11,6 +11,7 @@ Highlights:
 • also mimicked other UI appearance as per as UI given(shadows, color, size & ratios, etc.)
 
 Comparison screenshot:
+
 <img src="screenshot.png" width="800px">
 
 
