@@ -1,13 +1,9 @@
 Aimed_labs_assignment
 
 
-
 Assignment details and UI: https://www.figma.com/file/3laNo8t40YceonUnslUNRA/figma%2Fwhiteboard?node-id=0%3A1
-
 Assignment given on: 07/06/2022 3:59pm
-
 Completed on: 07/06/2022 4:30pm
-
 Due on: 08/06/2022
 
 
